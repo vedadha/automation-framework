@@ -12,7 +12,7 @@
 
 
 ## General Information
-- Test cases coverage for this project and reported defects can be found on this > [_link_](https://docs.google.com/spreadsheets/d/1tSAeVf57g5brG9S11QzYARR7FOX_ecBczEwAGVEmVHE/edit?usp=sharing)
+- Test case coverage for this project and reported defects can be found on this > [_link_](https://docs.google.com/spreadsheets/d/1tSAeVf57g5brG9S11QzYARR7FOX_ecBczEwAGVEmVHE/edit?usp=sharing)
 - Automation framework is based on Selenium with Java project covering testing the most important functionalities. Framework is using Page Object Model pattern in  witch creates an object repository for storing all web elements.
 
 
