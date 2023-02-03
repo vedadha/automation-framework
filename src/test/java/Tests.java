@@ -54,6 +54,7 @@ public class Tests {
         checkoutPage.goToCheckout();
         checkoutPage.confirmAddress();
         checkoutPage.confirmShipping();
+        checkoutPage.payByBankWire();
         checkoutPage.confirmFinalOrder();
         assertTrue(checkoutPage.checkFinalStatus());
     }
