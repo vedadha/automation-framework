@@ -48,7 +48,7 @@ public class SearchTests {
                 { "Shirt", true },
                 { "Blouse", true },
                 { "Dress", true },
-                { "", false },
+                { "tht", false },
                 { "test", false }
         });
     }
